@@ -1,0 +1,18 @@
+.post {
+  width: 600px;
+  margin: 15px auto;
+  padding: 20px;
+  border: 2px solid gray;
+  border-radius: 15px;
+  background-color: #da9d9d24;
+}
+.post button {
+  color: #ffff;
+  font-weight: 700;
+  background-color: rgb(15, 122, 194);
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px 0;
+}

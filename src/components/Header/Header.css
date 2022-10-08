@@ -1,0 +1,15 @@
+.header a {
+  margin-right: 20px;
+  text-decoration: none;
+  padding: 2px 5px;
+  font-size: large;
+  font-weight: 600;
+}
+
+.header a:hover {
+  background-color: lightblue;
+}
+
+.active {
+  border-bottom: 4px solid olivedrab;
+}
